@@ -1,0 +1,10 @@
+asgiref==3.7.2
+Django==5.0.1
+mysql-connector-python==8.0.33
+pillow==10.2.0
+prettyTables==1.1.5
+psycopg2-binary==2.9.9
+pyscopg2==66.0.2
+python-dotenv==1.0.1
+sqlparse==0.4.4
+tzdata==2023.4
